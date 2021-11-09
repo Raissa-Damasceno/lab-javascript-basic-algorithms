@@ -31,4 +31,4 @@ function iRename (str) {
         newStri +=str.charAt(i)
     }
 }
-console.log ({str, newString}) ; 
+console.log ({str, newString})} ; 
